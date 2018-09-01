@@ -11,7 +11,7 @@ LiDAR and Radar measurements are fused to predict the position and velocity of
 a simulated car. A [simulator](https://github.com/udacity/self-driving-car-sim/releases/tag/v1.45)
 provided by Udacity is used to generate and visualise measurements and motion
 of a car. More information on installation and usage of the simulator with
-the executable can be found in the seed-project setup by Udacity here(https://github.com/udacity/CarND-Extended-Kalman-Filter-Project).
+the executable can be found in the seed-project setup by Udacity [here](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project).
 
 ## Dependencies
 1. CMake >= 3.5
